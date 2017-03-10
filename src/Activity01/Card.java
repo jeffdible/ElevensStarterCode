@@ -38,6 +38,7 @@ public class Card {
                 cardRank = rank;
                 cardsuit = suit;
                 cardPointValue = pointValue;
+                //here
 	}
 
 
